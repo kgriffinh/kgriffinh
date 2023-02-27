@@ -36,4 +36,4 @@
 </p>
 <br/>
 
-<a align="left" href="mailto:griffinh29@gmail.com"> <img src="https://github-readme-stats.vercel.app/api?username=kgriffinh&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="kgriffinh" /></a>
+<a align="left" href="https://github.com/kgriffinh"> <img src="https://github-readme-stats.vercel.app/api?username=kgriffinh&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="kgriffinh" /></a>
