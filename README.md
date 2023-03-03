@@ -1,4 +1,4 @@
-<p align="center" href="https://github.com/kgriffinh"> <img width="1000" height="250" src="https://user-images.githubusercontent.com/119381998/220643617-34424c4c-d425-4988-8560-31994b964ba4.png")
+<p align="center" href="https://github.com/kgriffinh"> <img width="1000" height="200" src="https://user-images.githubusercontent.com/119381998/220643617-34424c4c-d425-4988-8560-31994b964ba4.png")
 </p>
 <br/>
 <br/>
