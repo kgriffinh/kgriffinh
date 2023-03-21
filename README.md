@@ -16,7 +16,7 @@
   
 - 👇🏻 How to reach me 👇🏻
 
-<a href="https://www.linkedin.com/in/griffin-henry-3a83321b1/" title="Linkedin"> <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="50" height="50"/> </a>
+<a href="https://www.linkedin.com/in/griffinhenry/" title="Linkedin"> <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="50" height="50"/> </a>
 <a href="mailto:griffinh29@gmail.com" title="Gmail"> <img src="https://www.shareicon.net/data/2015/10/03/111547_email_512x512.png" width="50" height="50"/> </a>
 <a href="https://t.me/kgriffinh" title="Telegram"> <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" width="50" height="50"/> </a>
 <a href="https://www.instagram.com/kgriffinh/" title="Instagram"> <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="50" height="50"/> </a>
