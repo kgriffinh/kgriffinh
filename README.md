@@ -8,9 +8,9 @@
   
 ## About Me
 
-- 🔍 I'm currently looking for a job opportunity
+- 🔍 Looking for a job opportunity
 
-- 💻 I’m currently learning **GO**
+- 💻 I’m currently learning **JAVA**
 
 - 📋 There is always **"one more thing"** to learn!
   
